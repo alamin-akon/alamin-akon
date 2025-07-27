@@ -55,7 +55,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **[E-commerce Platform](https://e-shop-pied-ten.vercel.app/)** | A full-stack MERN app with secure payments and responsive design. | React, Node.js, MongoDB, Stripe | [🔗 Live](https://e-shop-pied-ten.vercel.app/) |
+| **[E-commerce Platform](https://e-shop-main-theta.vercel.app/)** | A full-stack MERN app with secure payments and responsive design. | React, Node.js, MongoDB, Stripe | [🔗 Live](https://e-shop-main-theta.vercel.app/) |
 | **[Portfolio Website](https://alaminakon.vercel.app/)** | A modern, responsive portfolio showcasing my work. | Next.js, Tailwind CSS | [🔗 Live](https://alaminakon.vercel.app/) |
 | **[Task Manager](https://sphere-two-peach.vercel.app/)** | A task management app with real-time updates. | React, Node.js, Firebase | [🔗 Live](https://sphere-two-peach.vercel.app/) |
 
