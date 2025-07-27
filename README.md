@@ -41,12 +41,12 @@
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge">
+  <img src="https://img.shields.io/badge/Git-F05032? style=flat-square&logo=git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/GitHub-100000? style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED? style=flat-square&logo=docker&logoColor=white" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/AWS-232F3E? style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4? style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code Badge">
+  <img src="https://img.shields.io/badge/Figma-F24E1E? style=flat-square&logo=figma&logoColor=white" alt="Figma Badge">
 </p>
 
 ---
@@ -55,9 +55,9 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **[E-commerce Platform](https://github.com/alaminakon/ecommerce-platform)** | A full-stack MERN app with secure payments and responsive design. | React, Node.js, MongoDB, Stripe | [🔗 Live](https://ecommerce.alaminakon.dev) |
-| **[Portfolio Website](https://github.com/alaminakon/portfolio)** | A modern, responsive portfolio showcasing my work. | Next.js, Tailwind CSS | [🔗 Live](https://alaminakon.dev) |
-| **[Task Manager](https://github.com/alaminakon/task-manager)** | A task management app with real-time updates. | React, Node.js, Firebase | [🔗 Live](https://taskmanager.alaminakon.dev) |
+| **[E-commerce Platform](https://e-shop-pied-ten.vercel.app/)** | A full-stack MERN app with secure payments and responsive design. | React, Node.js, MongoDB, Stripe | [🔗 Live](https://e-shop-pied-ten.vercel.app/) |
+| **[Portfolio Website](https://alaminakon.vercel.app/)** | A modern, responsive portfolio showcasing my work. | Next.js, Tailwind CSS | [🔗 Live](https://alaminakon.vercel.app/) |
+| **[Task Manager](https://sphere-two-peach.vercel.app/)** | A task management app with real-time updates. | React, Node.js, Firebase | [🔗 Live](https://sphere-two-peach.vercel.app/) |
 
 ---
 
