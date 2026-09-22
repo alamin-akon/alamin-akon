@@ -87,17 +87,7 @@ My focus is creating websites that look great, load fast, and provide a smooth u
 
 <img width="70%" src="https://streak-stats.demolab.com?user=alaminakon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-<br /><br />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=alaminakon&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=alaminakon&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
 </div>
-
-> Note: the contribution graph and trophy widgets update automatically from your GitHub activity — no extra setup needed beyond keeping the username correct.
 
 ---
 
