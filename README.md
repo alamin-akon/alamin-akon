@@ -8,6 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=alaminakon&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/alaminakon?label=Followers&style=for-the-badge&color=0ea5e9" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/alaminakon?label=Stars&style=for-the-badge&color=facc15" alt="GitHub Stars" />
 
 </div>
 
@@ -15,15 +16,16 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Alamin Akon**, a passionate **Full-Stack Web Developer** from Bangladesh.  
+Hi! I'm **Alamin Akon**, a passionate **Full-Stack Web Developer** from Bangladesh.
 I enjoy building clean, fast, responsive, and user-friendly web applications.
 
-I mostly work with **React, Next.js, JavaScript, Shopify, Node.js, MongoDB**, and modern frontend technologies.  
+I mostly work with **React, Next.js, JavaScript, Shopify, Node.js, MongoDB**, and modern frontend technologies.
 My focus is creating websites that look great, load fast, and provide a smooth user experience.
 
 - 🔭 Currently working on **Shopify themes, custom sections, and modern web apps**
 - 🌱 Learning more about **Next.js, TypeScript, GraphQL, and backend architecture**
 - 💻 Interested in **eCommerce, SaaS dashboards, automation, and AI tools**
+- 📫 Reach me anytime — links are all below
 - ⚡ Fun fact: I love turning simple ideas into polished digital products
 
 ---
@@ -69,7 +71,7 @@ My focus is creating websites that look great, load fast, and provide a smooth u
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
 | **E-commerce Platform** | A modern eCommerce app with responsive UI and product flow. | React, Node.js, MongoDB | [Live Demo](https://e-shop-main-theta.vercel.app/) |
-| **Portfolio Website** | Personal portfolio website to showcase projects and skills. | Next.js, Tailwind CSS | [Live Demo](https://alaminakon.vercel.app/) |
+| **Portfolio Website** | Personal portfolio website to showcase projects and skills. | Next.js, Tailwind CSS | [Live Demo](https://alaminakon.dev) |
 | **Task Manager** | Task management app with clean dashboard-style UI. | React, Node.js, Firebase | [Live Demo](https://sphere-two-peach.vercel.app/) |
 
 ---
@@ -85,7 +87,17 @@ My focus is creating websites that look great, load fast, and provide a smooth u
 
 <img width="70%" src="https://streak-stats.demolab.com?user=alaminakon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
+<br /><br />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=alaminakon&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=alaminakon&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
 </div>
+
+> Note: the contribution graph and trophy widgets update automatically from your GitHub activity — no extra setup needed beyond keeping the username correct.
 
 ---
 
@@ -103,11 +115,15 @@ My focus is creating websites that look great, load fast, and provide a smooth u
 
 <div align="center">
 
+<a href="https://github.com/alaminakon" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/alaminakon" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://alaminakon.vercel.app/" target="_blank">
+<a href="https://alaminakon.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -125,9 +141,9 @@ My focus is creating websites that look great, load fast, and provide a smooth u
 
 <div align="center">
 
-### ✨ “Code. Learn. Build. Improve.” ✨
+### ✨ "Code. Learn. Build. Improve." ✨
 
-⭐ Thanks for visiting my profile!  
+⭐ Thanks for visiting my profile!
 If you like my work, feel free to follow me and check out my repositories.
 
 </div>
